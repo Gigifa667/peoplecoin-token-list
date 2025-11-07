@@ -184623,3 +184623,14 @@
     "patch": 3
   }
 }
+
+{
+  "chainId": 101,
+  "address": "Cuz59u3uDNz1Dt27hFkEraJTu9rDNHo18Dvd6wm8pbPz",
+  "symbol": "PCN",
+  "name": "PeopleCoin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Gigifa667/PeopleCoin/75bf5f1e1249c25d6ae1baca54f3575f31aa288a/BCO.a8baecee-add4-44df-93a8-2fee0c8169be.png",
+  "tags": ["community", "utility"]
+}
+
