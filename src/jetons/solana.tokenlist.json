@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "8KLWCmkdMGgqLPQ7eAmntziz8AqyDyhyGc3zu5JXPE9A",
+  "symbol": "PCT",
+  "name": "PeopleCoin",
+  "decimals": 0,
+  "logoURI": "https://raw.githubusercontent.com/Gigifa667/PeopleCoin/main/assets/mainnet/8KLWCmkdMGgqLPQ7eAmntziz8AqyDyhyGc3zu5JXPE9A/logo.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://tonsite.com",
+    "twitter": "https://twitter.com/tonjeton"
+  }
+}
+
