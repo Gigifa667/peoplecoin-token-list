@@ -1,0 +1,11 @@
+{
+  "name": "PeopleCoin",
+  "symbol": "PEOP",
+  "description": "Token utilitaire communautaire porté par ses contributeurs",
+  "image": "https://raw.githubusercontent.com/Gigifa667/peoplecoin-token-list/main/logo.png",
+  "decimals": 9,
+  "properties": {
+    "category": "utility",
+    "website": "https://peoplecoin.xyz"
+  }
+}
