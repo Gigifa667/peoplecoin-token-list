@@ -3,7 +3,7 @@
   "address": "8KLWCmkdMGgqLPQ7eAmntziz8AqyDyhyGc3zu5JXPE9A",
   "symbol": "PCT",
   "name": "PeopleCoin",
-  "decimals": 0,
+  "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/Gigifa667/PeopleCoin/main/BCO.a8baecee-add4-44df-93a8-2fee0c8169be.png",
   "tags": ["utility-token"],
   "extensions": {
@@ -11,4 +11,5 @@
     "twitter": "https://twitter.com/tonjeton"
   }
 }
+
 
